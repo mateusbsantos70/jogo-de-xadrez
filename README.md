@@ -36,7 +36,7 @@ Jogue diretamente no navegador! Basta abrir o arquivo `index.html` em qualquer n
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/xadrez-js.git
+git clone https://github.com/xadrez/xadrez-js.git
 ```
 
 2. Navegue até o diretório:
